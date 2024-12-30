@@ -62,7 +62,7 @@ To run this project, you'll need Python 3.x and the following dependencies:
 
 To create a custom AI model that interprets natural language commands into CMD commands, you can use the `create_model.py` script:
 
-1. Make sure the model file (`modelfile.txt`) is properly formatted and placed in the same directory as `create_model.py`.
+1. Make sure the model file (`Modelfile`) is properly formatted and placed in the same directory as `create_model.py`.
 2. Run the script to create the model:
 
    ```cmd
