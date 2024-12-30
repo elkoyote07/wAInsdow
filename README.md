@@ -22,7 +22,7 @@ To run this project, you'll need Python 3.x and the following dependencies:
 - `speech_recognition`: For converting speech to text.
 - `requests`: For handling HTTP requests.
 
-### Setup
+### Setup 🔧
 
 1. Clone the repository:
 
@@ -46,7 +46,7 @@ To run this project, you'll need Python 3.x and the following dependencies:
 
 4. Ensure your microphone is working and accessible by the speech recognition library.
 
-## How to Use
+## How to Use 🎧
 
 ### Running the Assistant
 
@@ -58,7 +58,7 @@ To run this project, you'll need Python 3.x and the following dependencies:
 
 2. The assistant will begin listening for your voice commands and attempt to execute the corresponding CMD command.
 
-### Creating a Custom Model
+### Creating a Custom Model 🤖
 
 To create a custom AI model that interprets natural language commands into CMD commands, you can use the `create_model.py` script:
 
@@ -86,7 +86,7 @@ wIAnsdow/
 └── README.md             # This file
 ```
 
-## Dependencies
+## Dependencies 📦
 
 To install the dependencies, you can create a `requirements.txt` file like this:
 
@@ -103,7 +103,7 @@ Install them using:
 pip install -r requirements.txt
 ```
 
-## License
+## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
