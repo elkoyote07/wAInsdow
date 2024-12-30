@@ -1,3 +1,5 @@
+![Untitled](https://github.com/user-attachments/assets/4d93ab18-715a-4eb1-96fc-3fe484d76c38)
+
 # wIAnsdow - Intelligent Voice Assistant for Windows
 
 wIAnsdow is an intelligent voice assistant that allows you to interact with your Windows system using natural language. By leveraging tools like Ollama, the assistant generates responses and commands based on user input and can execute them via the Command Prompt (CMD).
